@@ -1,0 +1,24 @@
+{
+  "name": "reactmadina",
+  "version": "1.0.0",
+  "description": "React.js Netflix style carousel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukehardiman/reactmadina.git"
+  },
+  "keywords": [
+    "carousel",
+    "netflix",
+    "react"
+  ],
+  "author": "Luke Hardiman <luke@newrelease.co.za>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukehardiman/reactmadina/issues"
+  },
+  "homepage": "https://github.com/lukehardiman/reactmadina#readme"
+}
