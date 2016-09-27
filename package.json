@@ -4,6 +4,9 @@
   "description": "React.js Netflix style carousel",
   "main": "index.js",
   "scripts": {
+    "webpack-watch": "webpack -w",
+    "express-server": "node ./server",
+    "dev": "concurrently --kill-others \"npm run webpack-watch\" \"npm run express-server\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -28,5 +31,8 @@
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
     "webpack": "^1.13.2"
+  },
+  "devDependencies": {
+    "concurrently": "^3.0.0"
   }
 }

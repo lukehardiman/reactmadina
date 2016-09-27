@@ -1,0 +1,813 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"an",
+				"anchor_faqs_visible"
+			],
+			[
+				"font-family",
+				"font-family-sans-serif"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"font",
+				"font-family-sans-serif"
+			],
+			[
+				"achor-fon",
+				"anchor-font-color-hover"
+			],
+			[
+				"center",
+				"currency-switcher"
+			],
+			[
+				"Re",
+				"RegExp"
+			],
+			[
+				"push",
+				"pushState"
+			],
+			[
+				"pop",
+				"popstate"
+			],
+			[
+				"statechange",
+				"statechange"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"first",
+				"first-of-type  (function)"
+			],
+			[
+				"fancy",
+				"fancybox"
+			],
+			[
+				"map_new",
+				"map_new_map"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/index.html",
+			"settings":
+			{
+				"buffer_size": 224,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "webpack.config.js",
+			"settings":
+			{
+				"buffer_size": 317,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/client.js",
+			"settings":
+			{
+				"buffer_size": 141,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Snippet: html5",
+				"Snippet: Simple HTML5 Boilerplate"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/www/vhosts/projects/reactmadina"
+	],
+	"file_history":
+	[
+		"/Volumes/www/vhosts/projects/reactmadina/.gitignore",
+		"/Volumes/www/vhosts/projects/reactmadina/server.babel.js",
+		"/Volumes/www/vhosts/projects/reactmadina/server.js",
+		"/Volumes/www/vhosts/projects/reactmadina/.babelrc",
+		"/Volumes/www/vhosts/react/server.js",
+		"/Volumes/www/vhosts/react/comments.json",
+		"/Volumes/www/vhosts/react/package.json",
+		"/Volumes/www/vhosts/react/index.html",
+		"/Volumes/www/vhosts/react/dist/react-slick.js",
+		"/Volumes/www/vhosts/react/docs/index.html",
+		"/Volumes/www/vhosts/react/hello-world.html",
+		"/Volumes/www/vhosts/react/examples/basic-click-counter/index.html",
+		"/Volumes/www/vhosts/react/examples/jquery-bootstrap/js/app.js",
+		"/Volumes/www/vhosts/react/src/app.js",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/newsletter.group/.1_col_landscape.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/blog.group/blogrss.feed",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/newsletter.group/.3_col.html",
+		"/Volumes/www/vhosts/alm-new/almadina_html/css/app.css",
+		"/Volumes/www/vhosts/alm-new/config_bootstrap.php",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/newsletter.group/.2_col.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/newsletter.group/.1_col_banner.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/newsletter.group/.1_col_banner_no_subhead.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/seminars.group/.seminar_detail.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/newsletter.group/index.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/blog.group/.base_js.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/blog.group/.single.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/home.group/index.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/config/mimes.php",
+		"/Volumes/www/vhosts/alm-new/almadina_html/scss/app.scss",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/_components.group/.footer.html",
+		"/Volumes/www/vhosts/alm-new/almadina_html/.htaccess",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/blog.group/.author.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/blog.group/.author_list.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/blog.group/.category.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/blog.group/.home.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/blog.group/disclaimer.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/blog.group/write-for-us.html",
+		"/Volumes/www/vhosts/alm-new/almadina_html/scss/_settings.scss",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/teachers.group/.teacher_listing.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/seminars.group/.seminar_listing.html",
+		"/Volumes/www/vhosts/alm-new/almadina_html/svg/mail-8.svg",
+		"/Volumes/www/vhosts/alm-new/almadina_html/bower_components/foundation/scss/foundation.scss",
+		"/Volumes/www/vhosts/alm-new/almadina_html/bower_components/foundation/scss/foundation/_settings.scss",
+		"/Volumes/www/vhosts/alm-new/config.rb",
+		"/Volumes/www/vhosts/alm-new/almadina_html/js/app.js",
+		"/Volumes/www/vhosts/alm-new/almadina_html/bower_components/jquery/dist/jquery.js",
+		"/Volumes/www/vhosts/alm-new/almadina_html/bower_components/foundation/js/foundation.js",
+		"/Volumes/www/vhosts/alm-new/almadina_html/bower_components/jquery/dist/jquery.min.js",
+		"/Volumes/www/vhosts/alm-new/.bowerrc",
+		"/Volumes/www/vhosts/alm-new/config.codekit",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/_components.group/.base_js.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/_components.group/.js_base.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/third_party/gmap/ft.gmap.php",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/sandbox.group/index.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/third_party/matrix/ft.matrix.php",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/webinars.group/.webinar_detail.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/_components.group/.masthead.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/_components.group/.primary_nav.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/seminars.group/index.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/blog.group/preview.html",
+		"/Volumes/www/vhosts/alm-new/engine/index.php",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/third_party/ce_cache/mcp.ce_cache.php",
+		"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam/lib/ckeditor/config.js",
+		"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam_old/lib/ckeditor/plugins/specialchar/dialogs/lang/en-gb.js",
+		"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam_old/lib/ckeditor/plugins/specialchar/dialogs/lang/en.js",
+		"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam/lib/ckeditor/plugins/specialchar/dialogs/lang/ar.js",
+		"/Users/Release/Desktop/.listing-tour-sql.sql",
+		"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam_old/styles/config_edit.css",
+		"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam_old/scripts/config_edit_advanced.js",
+		"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam_old/lib/ckeditor/config.js",
+		"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam_old/lib/ckeditor/styles.js",
+		"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam/lib/ckeditor/styles.js",
+		"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam/scripts/config_edit_advanced.js",
+		"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam/scripts/wygwam.js",
+		"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam/scripts/matrix2.js",
+		"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam/lib/ckeditor/plugins/specialchar/dialogs/lang/en.js",
+		"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam/lib/ckeditor/plugins/specialchar/dialogs/specialchar.js",
+		"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam/lib/ckeditor/plugins/specialchar/dialogs/lang/en-gb.js",
+		"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam/lib/ckeditor/ckeditor.js",
+		"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam/scripts/matrix.js",
+		"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam/scripts/grid.js",
+		"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam_old/lib/ckeditor/plugins/specialchar/dialogs/specialchar.js",
+		"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam/lib/ckeditor/plugins/styles/styles/madina.js",
+		"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam_old/scripts/wygwam.js",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/webinars.group/index.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/webinars.group/.webinar_thanks.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/seminars.group/.seminar_register.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/webinars.group/.webinar_register.html",
+		"/Volumes/www/vhosts/alm-new/almadina_html/index.php",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/search.group/results.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/libraries/Filemanager.php",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/seminars.group/mail.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/config/config.php",
+		"/Volumes/www/vhosts/alm-new/engine/codeigniter/system/helpers/file_helper.php",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/third_party/assets/language/english/lang.assets.php",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/third_party/cki_mblist/ft.cki_mblist.php",
+		"/Volumes/www/vhosts/alm-new/almadina_html/admin.php",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/teachers.group/.teacher_detail.html",
+		"/Volumes/www/vhosts/alm-new/almadina_html/engine.php",
+		"/Volumes/www/vhosts/alm-new/system/index.php",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/third_party/playa/ft.playa.php",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/third_party/imgsizer/pi.imgsizer.php",
+		"/Volumes/www/vhosts/alm-new/system/expressionengine/config/database.php",
+		"/Volumes/www/vhosts/alm-new/system/expressionengine/config/config.php",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/_components.group/.teacher_blog_listing.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/audio.group/.audio_listing.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/audio.group/.category.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/about.group/index.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/audio.group/.audio_detail.html",
+		"/Volumes/www/vhosts/alm-new/almadina_html/js/script.js",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/_components.group/.head.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/blog.group/.footer.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/cart.group/view_cart.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/about.group/index.bak.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/seminars.group/.seminar_thanks.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/blog.group/index.html",
+		"/Volumes/www/vhosts/alm-new/almadina_html/js/plugins.js",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/audio.group/index.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/newsletter.group/static.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/third_party/soundcloud/pi.soundcloud.php",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/teachers.group/index.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/third_party/matrix/celltypes/date.php",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/news.group/.news_detail.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/news.group/.news_listing.html",
+		"/Volumes/www/vhosts/alm-new/engine/expressionengine/third_party/matrix/celltypes/file.php",
+		"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wyvern_video/scripts/wyvern_video_dialog.js",
+		"/Users/Release/Downloads/wyvern_video-132 2/themes/third_party/wyvern_video/scripts/wyvern_video_dialog.js",
+		"/Users/Release/Downloads/wyvern_video-132 2/system/expressionengine/third_party/wyvern_video/ext.wyvern_video.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Volumes/www/vhosts/react",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/newsletter.group",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/blog.group",
+			"/Volumes/www/vhosts/alm-new/almadina_html/bower_components",
+			"/Volumes/www/vhosts/alm-new/almadina_html/js",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/third_party/gmap",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/gmap",
+			"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/third_party/gmap",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/newsletter.group",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/newsletter.group",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/alm-new/almadina_html/themes",
+			"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam",
+			"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam/lib/ckeditor",
+			"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam",
+			"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam_old",
+			"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party",
+			"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam_old",
+			"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/seminars.group",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/newsletter.group",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/alm-new/almadina_html",
+			"/Volumes/www/vhosts/alm-new/almadina_html/themes",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/alm-new",
+			"/Volumes/www/vhosts/alm-new/almadina_html/themes",
+			"/Volumes/www/vhosts/alm-new/engine",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/third_party",
+			"/Volumes/www/vhosts/alm-new/almadina_html/themes/third_party/wygwam",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site/newsletter.group",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site",
+			"/Volumes/www/vhosts/alm-new/almadina_html/js",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/templates/default_site",
+			"/Volumes/www/vhosts/alm-new/almadina_html/themes,/Users/Release/Downloads/wyvern_video-132 2",
+			"/Volumes/www/vhosts/alm-new/almadina_html/themes",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/third_party",
+			"/Volumes/www/vhosts/alm-new/engine/expressionengine/third_party/wyvern_video",
+			"/Volumes/www/vhosts/alm-new/almadina_html",
+			"/Volumes/www/vhosts/alm-new/engine/codeigniter",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates/african-budget-safaris/sitemap.group",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates/african-budget-safaris/_tour_includes.group",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates/african-budget-safaris",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates/african-budget-safaris",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/abs/public_html/js",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/third_party/channel_images",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates/african-budget-safaris",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates/african-budget-safaris/_tour_includes.group",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates/african-budget-safaris",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates/african-budget-safaris",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates/african-budget-safaris",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates/african-budget-safaris",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/third_party",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/third_party",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/third_party/wyvern_video",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/third_party",
+			"/Volumes/www/vhosts/abs/public_html/themes/third_party",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/third_party/wyvern_video",
+			"/Volumes/www/vhosts/abs/public_html/themes/third_party/wyvern_video",
+			"/Volumes/www/vhosts/abs/engine/expressionengine",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates/african-budget-safaris",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/third_party",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates/african-budget-safaris/pages.group",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/third_party",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/third_party/channel_images",
+			"/Volumes/www/vhosts/abs/public_html/themes/third_party",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates/african-budget-safaris",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates/african-budget-safaris",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates/african-budget-safaris",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/third_party/calendar",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates/african-budget-safaris",
+			"/Volumes/www/vhosts/abs/public_html/js",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates/african-budget-safaris",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/third_party",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates/african-budget-safaris",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/third_party/freeform",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/abs/public_html/js",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates/african-budget-safaris",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates/african-budget-safaris",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/abs/public_html/css",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/third_party/channel_images",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates/african-budget-safaris",
+			"/Volumes/www/vhosts/abs/engine/expressionengine/templates",
+			"/Volumes/www/vhosts/abs/public_html/js",
+			"/Volumes/www/vhosts/365cz/clientzone/css/less"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"browser",
+			"cockgoblin",
+			"createClass",
+			"catego",
+			"channel_short_name",
+			"newsletter_feature_entry ",
+			"{if nf:newsletter_feature_link}",
+			"newsletter_feature_link",
+			"if nf:newsletter_feature_link",
+			"newsletter_feature_link",
+			"template_seminar",
+			"flex-video",
+			"mime",
+			"landing_hero",
+			"template_seminar",
+			"event sched",
+			"caption",
+			"on",
+			"author",
+			"<a href=\"{site_url}blog/author/\" class=\"mtm mbn button radius block\">",
+			"see all imanwire authors",
+			"<a class=\"button block radius\" href=\"{site_url}blog/write-for-us/\"",
+			"write for us",
+			"font-size",
+			"feature",
+			"breadcrumb",
+			"button",
+			"color",
+			"latest",
+			"caption",
+			"content",
+			"circlepop",
+			"100px",
+			"alert-close",
+			"get the newsletter",
+			"small",
+			"line-height",
+			"0;",
+			"60%",
+			"small",
+			" 0;",
+			"line-height",
+			"line-height:",
+			".load",
+			"font-size:0.8rem",
+			"addthis",
+			"details",
+			"teachers",
+			"heading",
+			"seminar_fa",
+			"last{/if}",
+			"{if row_count =='1'} active{/if}",
+			"schedule",
+			"has_price",
+			"register today",
+			"seminar_video",
+			"seminar_video_other",
+			"wistia",
+			"AIzaSyBHlPyYCoMbPjSMYdHLyrvNwbSvysUiA3s",
+			"key",
+			"<!-- banner wrapper",
+			"nf:newsletter_feature_link",
+			"newsletter_feature_entry",
+			"{title}",
+			"newsletter_feature_entry",
+			"{title}",
+			"newsletter_feature_entry",
+			"{title}",
+			"newsletter_feature_entry",
+			"title",
+			"{title}",
+			"newsletter_feature_entry",
+			"var_prefix=\"nf",
+			"{if nf:newsletter_feature_summary}",
+			"switch",
+			"switchee",
+			"channel=\"newsletter_features\"",
+			"{exp:playa:children \n  						  channel=\"newsletter_features\" \n  						  row_id=\"{embed:row_id}\"}",
+			"{exp:channel_images:images field=\"newsletter_feature_image\"",
+			"{/newsletter_feature",
+			"{newsletter_feature",
+			"{if newsletter_feature",
+			"{/newsletter_feature",
+			"{newsletter_feature",
+			"{newsletter_feature_link",
+			"{newsletter_feature",
+			"{newsletter_feature_image",
+			"newsletter_feature_image",
+			"sticky",
+			"paginate",
+			"stick",
+			"sticky",
+			"image_",
+			"image:",
+			"image:description",
+			"by",
+			"home_video_section",
+			"blog_feature",
+			"blog_imagery",
+			"face",
+			"by",
+			"caption",
+			"12",
+			"video_fb",
+			"/.primary_nav",
+			".primary_nav",
+			"nav",
+			"compon",
+			".primary_nav",
+			"navee",
+			"ce_cache",
+			"flex-video",
+			"{video_",
+			"video_",
+			"end",
+			"text-center",
+			".speakers",
+			"template_seminar",
+			"<script",
+			"panellists",
+			"teacher",
+			"CKEDITOR.config.specialChars",
+			"9658",
+			"special",
+			"specialch",
+			"special",
+			"entities",
+			"9658"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"{if ''!='{nf:newsletter_feature_link}'}",
+			"<a href=\"{site_url}blog/author/\" class=\"mtm mbn button round secondary small block\">",
+			"<a class=\"button block secondary round small mhm\" href=\"{site_url}blog/write-for-us/\"",
+			"AIzaSyAZP2_0hW8687wimPD3N-z6f-nq3Y68jr8",
+			"{if ''!='{nf:newsletter_feature_summary}'}",
+			"{exp:playa:children \n  						  channel=\"newsletter_features\" \n  						  row_id=\"{embed:row_id}\" var_prefix=\"nf\"}",
+			"{exp:channel_images:images entry_id=\"{nf:entry_id}\" field=\"newsletter_feature_image\"",
+			"{/nf:newsletter_feature",
+			"{nf:newsletter_feature",
+			"{if nf:newsletter_feature",
+			"controls=\"panel2-3\">Category</a>",
+			"Get The Newsletter",
+			"<a href=\"javascript:void(0)\" ",
+			"href=\"/pricing/",
+			"{site_url}",
+			".low_search_form",
+			"href=\"{site_url}pricing/{url_title}/\" class=\"enquire-link fancybox-price\" data-fancybox-type=\"iframe\" data-fancybox-href=\"{site_url}pricing/{url_title}/\"",
+			"_global/.masthead",
+			"_global/.search",
+			"_global/.secondary-nav",
+			"_global/.super-nav",
+			"{if currency ",
+			"_global/.nav_specials",
+			"id=\"footer\" global=\"yes\" tags=\"global|footer|js\"",
+			"id=\"head\" \n      global=\"yes\" \n      tags=\"global|head\" \n      seconds=\"{lv_year}\"}      \n        {embed=\"_global/.head\"}",
+			"",
+			"fancybox-price\" data-default-currency=\"{currency}\" data-uid=\"{tour_code}\" data-eid=\"{entry_id}\"",
+			"#map_wrap",
+			"SHIELD",
+			" width=\"32\" height=\"32\"",
+			"\" width=\"32\" height=\"32\" ",
+			"",
+			"class=\"form-group row\"",
+			"group",
+			"<label class=\"col-sm-4 control-label\">",
+			"class=\"col-sm-6\"",
+			"class=\"form-control col-sm-10\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								133,
+								133
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "webpack.config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								317,
+								317
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/client.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								141,
+								141
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 94.0
+	},
+	"output.sftp":
+	{
+		"height": 205.0
+	},
+	"pinned_build_system": "",
+	"project": "reactmadina.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"_ADDONS"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
