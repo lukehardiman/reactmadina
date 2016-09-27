@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/lukehardiman/reactmadina/issues"
   },
-  "homepage": "https://github.com/lukehardiman/reactmadina#readme"
+  "homepage": "https://github.com/lukehardiman/reactmadina#readme",
+  "dependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "express": "^4.14.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "webpack": "^1.13.2"
+  }
 }
